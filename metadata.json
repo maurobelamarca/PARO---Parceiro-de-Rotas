@@ -1,0 +1,7 @@
+{
+  "name": "Rota Parceira",
+  "description": "A social ride-sharing application designed to connect passengers and drivers as partners. The platform is free to use, with payments handled directly between users, fostering a community built on reputation and trust.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
